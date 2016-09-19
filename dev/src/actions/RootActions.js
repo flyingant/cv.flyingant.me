@@ -17,7 +17,6 @@ module.exports = createActions({
                             dataJSON = JSON.parse(data);
                         }
                         return this.dispatch(this.Actions.InitializeAppCompleted(dataJSON))
-                            .then(() => this.dispatch(pushPath('/mayi')))
                     }
                 )
             );

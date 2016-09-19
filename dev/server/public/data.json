@@ -1,0 +1,98 @@
+{
+  "app": "CV Data",
+  "title": "MaYi",
+  "name": "Liu Cheng",
+  "role": "front end web developer",
+  "year": "2016",
+  "tag": "CV",
+  "email": "liucheng@flyingant.me",
+  "phone": "+86 15072468449",
+  "github": "https://github.com/flyingant",
+  "summary": [
+    "Hi, my name is <b>Liu Cheng</b>, you can call me &acute;<b>MaYi</b>&acute;, an enthusiastic and self-motivated <b>front end web developer</b> lived in Wuhan, China. I am currently working at <a href='https://wiredcraft.com' target='_blank'>Wiredcraft</a> Co. Ltd. in Shanghai as a Front-end Developer",
+    "I have several years of commercial experience in developing mid to large-scale websites, web-applications and iOS application based on technologies like <b>HTML5, CSS, React, React Native, Grails</b>. Also like to experiment with new things, build cool apps and study on the latest tech. Now I am trying to be a professional Full Stack developer in the next years.",
+    "You can call me on <b>+86 15072468449</b>, email me at <b>liucheng@flyingant.me</b>, or use the social network links (<a href='https://www.linkedin.com/in/flyingant' target='_blank'>LinkedIn</a>, <a href='https://github.com/flyingant' target='_blank'>GitHub</a>) to find out more about me. "
+  ],
+  "cards": [
+    {
+      "title": "Experiences",
+      "style": "experiences",
+      "contents": [
+        {
+          "title": "<a href='http://www.apploi.com' target='_blank'>Apploi</a> | 2013 - 2014",
+          "description": "<b>Web Developer & iOS Developer</b> <br/> <br/> - Responsible for building Grails & Backbone based websites and iPhone&iPad app. Worked with CEO to build the prototype of the app and spread it from New York City to other cities in U.S. Finally got the app into the App Store&acute;s top three and won the Tabby Awards, 2014.<br/>"
+        },
+        {
+          "title": "<a href='http://imadmen.net' target='_blank'>imadmen.net</a> | Nov 2015 - Jan 2016",
+          "description": "<b>Web Developer</b> <br/> <br/> - Designed, developed and deployed the React & Redux based web, wechat application. <br/>"
+        },
+        {
+          "title": "<a href='http://www.cinapsis.org/' target='_blank'>Cinapsis</a> | Aug - Sep 2015",
+          "description": "<b>Web Developer</b> <br/> <br/> - Designed, developed the React & Redux based web application and help to improve the prototype of the app. <br/>"
+        },
+        {
+          "title": "<a href='http://www.tooieapp.com' target='_blank'>Tooie</a> | 2012 - Present",
+          "description": "<b>Project Manager & Web Developer</b> <br/> <br/> - Responsible for building Grails based web-based application.<br/> - Manage team of front and back-end web developers and designers to meet project deadlines. <br/>"
+        },
+        {
+          "title": "Qinghengzhi(启恒智) |  June 2016",
+          "description": "<b>Web Developer</b> <br/><br/> - Designed and developed the ReactJS based wechat application."
+        },
+        {
+          "title": "Newworld(新世界地产) | Feb - Apr 2016",
+          "description": "<b>Web Developer & iOS Developer</b> <br/><br/> - Designed and developed the React Native based iPad Application."
+        },
+        {
+          "title": "<a href='https://www.employabilityplus.co.uk/' target='_blank'>EmployabilityPlus</a> | June - July 2015",
+          "description": "<b>Web Developer</b> <br/> <br/> - Responsible for building React & Reflux based website. <br/>"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "style": "skills",
+      "contents": [
+        {
+          "title": "DEVELOPMENT",
+          "description": "JAVA | GROOVY | Grails <br/> HTML5 | CSS3 | LESS | BOOTSTRAP<br/>JAVASCRIPT | REACT | REACT NATIVE | BACKBONE <br/> iOS | OBJECTIVE-C <br/>SQL | MYSQL <br/> Git | IntelliJ <br/>WECHAT APP | ALIYUN <br/>Agile"
+        },
+        {
+          "title": "DESIGN",
+          "description": "PHOTOSHOP | SKETCHUP | AXURE RP"
+        },
+        {
+          "title": "LANGUAGE",
+          "description": "CHINESE | ENGLISH"
+        }
+      ]
+    },
+    {
+      "title": "Career History",
+      "style": "career",
+      "contents": [
+        {
+          "title": "Wiredcraft",
+          "description": "August 2016 – Present , Shanghai, China <br/><br/> Front-End Developer"
+        },
+        {
+          "title": "Breeze Capsule",
+          "description": "April 2012 – July 2016 , Wuhan, Hubei, China <br/><br/> Web Developer"
+        },
+        {
+          "title": "Apploi",
+          "description": "March 2014 - July 2014 , Manhattan, New York City <br/><br/> Web Developer & iOS Developer"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "style": "education",
+      "contents": [
+        {
+          "title": "Wuhan University",
+          "description": "Bachelor&acute;s degree, Computer Science <br/> 2007 - 2011"
+        }
+      ]
+    }
+  ]
+}

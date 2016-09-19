@@ -1,4 +1,4 @@
-import { Router, Route } from 'react-router'
+import { Router, Route, IndexRoute } from 'react-router'
 import {createRouteHandler} from './RouteHandler'
 
 //actions
@@ -18,7 +18,7 @@ export function createRouter(history, store) {
     return (
         <Router history={history}>
             <Route path="/" component={App}>
-                <Route path="mayi" component={AppContainer}/>
+                <IndexRoute component={AppContainer}/>
             </Route>
         </Router>
     )
