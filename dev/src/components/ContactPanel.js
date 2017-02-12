@@ -11,8 +11,8 @@ export default function ContactPanel(props) {
                 </a>
             </div>
             <div>
-                <i className={styles.phone} title={props.phone}/>
-                <b>{props.phone}</b>
+                <i className={styles.wechat} title={props.wechat}/>
+                <b>{props.wechat}</b>
             </div>
             <div>
                 <a href={props.github} target="_blank">
@@ -26,6 +26,6 @@ export default function ContactPanel(props) {
 
 ContactPanel.propTypes = {
     email: PropTypes.string,
-    phone: PropTypes.string,
+    wechat: PropTypes.string,
     github: PropTypes.string,
 };

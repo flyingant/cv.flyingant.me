@@ -26,7 +26,7 @@ class AppContainer extends React.Component {
                     />
                 <ContactPanel
                     email={this.props.cv.email}
-                    phone={this.props.cv.phone}
+                    wechat={this.props.cv.wechat}
                     github={this.props.cv.github}
                     />
             </div>
