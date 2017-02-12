@@ -36,7 +36,7 @@ module.exports = {
     },
 
     getAppData: () => {
-        return $.get('./data.json')
+        return $.get('http://cv.flyingant.me/data.json')
     }
 
 }

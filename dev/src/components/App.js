@@ -1,16 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router';
 import { connect } from 'react-redux';
-const { pushPath } = require('redux-simple-router');
-
-import styles from '../less/main.less';
-
 // actions
 import RootActions from '../actions/RootActions';
 // components;
+import AppContainer from './AppContainer';
 import BusySpinner from '../common/components/BusySpinner';
 
 class App extends React.Component {
+
     initializeApp() {
         this.props.dispatch(RootActions.Actions.InitializeApp());
     }
@@ -22,7 +19,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                {this.props.children}
+                <AppContainer/>
                 <BusySpinner/>
             </div>
         );

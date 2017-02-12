@@ -1,11 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-
 import styles from '../less/main.less';
-
-// actions
-import RootActions from '../actions/RootActions';
-
 // components
 import NamePanel from './NamePanel';
 import DescriptionPanel from './DescriptionPanel';
