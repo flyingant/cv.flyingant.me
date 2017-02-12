@@ -14,7 +14,7 @@ export default function NamePanel(props) {
                     {props.role}
                 </div>
                 <div className={styles.year}>
-                    {props.year}
+                    {new Date().getFullYear()}
                 </div>
                 <div className={styles.tag}>
                     {props.tag}
@@ -28,6 +28,5 @@ NamePanel.propTypes = {
     title: PropTypes.string,
     name: PropTypes.string,
     role: PropTypes.string,
-    year: PropTypes.string,
     tag: PropTypes.string
 };

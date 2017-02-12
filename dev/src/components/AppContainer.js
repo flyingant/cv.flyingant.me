@@ -16,7 +16,6 @@ class AppContainer extends React.Component {
                     title={this.props.cv.title}
                     name={this.props.cv.name}
                     role={this.props.cv.role}
-                    year={this.props.cv.year}
                     tag={this.props.cv.tag}
                     />
                 <DescriptionPanel

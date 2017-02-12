@@ -25,6 +25,10 @@ module.exports = validate({
                 exclude: path.resolve(__dirname, "node_modules")
             },
             {
+                test: /\.json$/,
+                loader: 'json-loader'
+            },
+            {
                 test: /\.jpe?g$|\.gif$|\.png$|\.svg$|\.woff$|\.ttf$|\.wav$|\.mp3$|\.eot$/,
                 loader: "file-loader?name=[path][name].[ext]"
             },
