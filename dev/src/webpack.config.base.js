@@ -29,20 +29,8 @@ module.exports = validate({
                 loader: "file-loader?name=[path][name].[ext]"
             },
             {
-                test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-                loader: "url-loader?limit=10000&mimetype=application/font-woff"
-            },
-            {
-                test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-                loader: "file-loader"
-            },
-            {
                 test: /\.less$/,
                 loader: "style-loader!css-loader?modules!less"
-            },
-            {
-                test: /\.scss$/,
-                loader: "style-loader!css-loader?modules!sass"
             },
             {
                 test: /\.css$/, loader: "style-loader!css-loader?",
