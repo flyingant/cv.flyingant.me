@@ -8,7 +8,7 @@
   "wechat": "LittleFlyingAnt",
   "github": "https://github.com/flyingant",
   "summary": [
-    "Hi there, My name is <b>Liu Cheng</b> and you could call me &acute;<b>MaYi</b>&acute;. I am an enthusiastic and self-motivated <b>Front End Web developer</b> which have 4 year+ commercial experience in developing mid to large-scale websites, web application and desktop&mobile application based on the latest technologies like React, Electron, React Native, Grails. I'm living in Wuhan, China and currently working at <a href='https://wiredcraft.com' target='_blank'>Wiredcraft</a> Co. Ltd. in Shanghai, China.",
+    "Hi there, My name is <b>Liu Cheng</b> and you could call me &acute;<b>MaYi</b>&acute;. I am an enthusiastic and self-motivated <b>Front End Web developer</b> which have 6 year+ commercial experience in developing mid to large-scale websites, web application and desktop&mobile application based on the latest technologies like React, Electron, React Native, Grails. I'm living in Wuhan, China and currently working at <a href='https://wiredcraft.com' target='_blank'>Wiredcraft</a> Co. Ltd. in Shanghai, China.",
     "If you wish to find out more about me, you could email me at <a href='mailto:liucheng@flyingant.me' target='_blank'>liucheng@flyingant.me</a> or visit the following links (<a href='https://www.linkedin.com/in/flyingant' target='_blank'>LinkedIn</a>, <a href='https://github.com/flyingant' target='_blank'>GitHub</a>)</b>."
   ],
   "cards": [
@@ -17,24 +17,20 @@
       "style": "experiences",
       "contents": [
         {
+          "title": "<a href='http://www.starbucks.com.cn' target='_blank'>Starbucks China</a> | 2017 - 2018",
+          "description": "<b>Front end Leader & Developer</b>"
+        },
+        {
           "title": "<a href='http://imadmen.net' target='_blank'>imadmen.net（广告狂人）</a> | 2015 - 2016",
-          "description": "<b>Web Developer</b> <br/> <br/> - Designed, developed and deployed the React & Redux based web, wechat application. <br/>"
+          "description": "<b>Web Developer</b>"
         },
         {
           "title": "<a href='http://www.apploi.com' target='_blank'>Apploi</a> | 2013 - 2014",
-          "description": "<b>Web Developer & iOS Developer</b> <br/> <br/> - Responsible for building Grails & Backbone based websites and iPhone&iPad app. Worked with CEO to build the prototype of the app and spread it from New York City to other cities in U.S. Finally got the app into the App Store&acute;s top 3 and won the Tabby Awards, 2014.<br/>"
+          "description": "<b>Web Developer & iOS Developer</b>"
         },
         {
           "title": "<a href='http://www.tooieapp.com' target='_blank'>Tooie</a> | 2012 - 2016",
-          "description": "<b>Project Manager & Web Developer</b> <br/> <br/> - Responsible for building Grails based web-based application.<br/> - Manage team of front and back-end web developers and designers to meet project deadlines. <br/>"
-        },
-        {
-          "title": "Qinghengzhi(启恒智) |  June 2016",
-          "description": "<b>Web Developer</b> <br/><br/> - Designed and developed the ReactJS based wechat application."
-        },
-        {
-          "title": "<a href='https://www.employabilityplus.co.uk/' target='_blank'>EmployabilityPlus</a> | June - July 2015",
-          "description": "<b>Web Developer</b> <br/> <br/> - Responsible for building React & Reflux based website. <br/>"
+          "description": "<b>Project Manager & Web Developer</b>"
         }
       ]
     },
