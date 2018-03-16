@@ -36,7 +36,7 @@ module.exports = {
     },
 
     getAppData: () => {
-        return $.get("http://cv.flyingant.me/data.json") // prod
+        return $.get("/data.json") // prod
         // return Promise.resolve(require('../../../data.json')) // dev
     }
 
