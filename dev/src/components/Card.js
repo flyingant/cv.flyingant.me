@@ -19,7 +19,7 @@ export default class Card extends React.Component {
         if (this.state.displayMore) {
             contents = this.state.contents;
         } else {
-            contents = this.state.contents.slice(0, 3);
+            contents = this.state.contents.slice(0, 4);
         }
         let contentElement = _.map(contents,
             (content, index) => (
@@ -50,7 +50,7 @@ export default class Card extends React.Component {
                 </div>
                 {contentElement}
                 {
-                    this.state.displayMore === false && this.state.contents.length > 3 ?
+                    this.state.displayMore === false && this.state.contents.length > 4 ?
                         <div
                             className={styles.operator}
                             onClick={this._displayMore.bind(this)}
