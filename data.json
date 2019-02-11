@@ -8,8 +8,11 @@
   "wechat": "LittleFlyingAnt",
   "github": "https://github.com/flyingant",
   "summary": [
-    "My name is <b>Liu Cheng</b> A.K.A &acute;<b>MaYi</b>&acute; and I am an enthusiastic and self-motivated <b>Senior Front End Developer</b> which have 6 year+ commercial experience in developing mid to large-scale websites, web application and desktop&mobile application based on the latest technologies like React, Electron, React Native, Grails etc.",
-    "I'm living in Wuhan, China and currently working at <a href='https://wiredcraft.com' target='_blank'>Wiredcraft</a> Co. Ltd. in Shanghai, China. If you wish to find out more about me, you could email me at <a href='mailto:liucheng@flyingant.me' target='_blank'>liucheng@flyingant.me</a> or visit the following links (<a href='https://www.linkedin.com/in/flyingant' target='_blank'>LinkedIn</a>, <a href='https://github.com/flyingant' target='_blank'>GitHub</a>)."
+    "My name is <b>Liu Cheng</b> but usually called by '<b>MaYi</b>'.",
+    "Had 6+ years experiences of developing mid to large scale websites, web applications and desktop&mobile applications with latest technologies like React, React Native, Electron, Grails etc.",
+    "Currently working as the freelancer and the front end strategy &amp; team leader from the <a href='https://wiredcraft.com' rel='nofollow'>Wiredcraft</a> which is the digital agency located at Shanghai. I used to be the full stack developer and focusing on front end development and management right now.",
+    "In the past years I had worked with different teams from <em>Starbucks China</em>, <em>Burberry</em>, <em>Nike</em>, <em>Hilton</em>, <em>Walmart</em> etc. to  provide the technical support and develop new products by implementing the new-designed websites, wechat mini program and web apps. Now already got <a href='https://www.starbucks.com.cn' rel='nofollow'>Starbucks China Website</a>, Burberry Mini Program, Nike Mini Program etc. online.",
+    "If you wish to find out more about me, you could email me at <a href='mailto:liucheng@flyingant.me'>liucheng@flyingant.me</a> or visit the following links (<a href='https://www.linkedin.com/in/flyingant/' rel='nofollow'>LinkedIn</a>, <a href='https://github.com/flyingant'>GitHub</a>)."
   ],
   "cards": [
     {
@@ -48,11 +51,11 @@
       "contents": [
         {
           "title": "DEVELOPMENT",
-          "description": "JAVASCRIPT | REACT | REACT NATIVE | NodeJS | BACKBONE | ELECTRON <br/> HTML5 | CSS3 | LESS | SCSS | BOOTSTRAP<br/>JAVA | GROOVY | GRAILS <br/>  iOS | ANDROID | OBJECTIVE-C <br/>MYSQL <br/> GIT | SVN<br/>WECHAT APP | ALIYUN <br/>"
+          "description": "JAVASCRIPT | REACT | REACT NATIVE | NodeJS | BACKBONE | ELECTRON <br/> HTML5 | CSS3 | LESS | SCSS | BOOTSTRAP<br/>JAVA | GROOVY | GRAILS <br/>  iOS | ANDROID | OBJECTIVE-C <br/>MYSQL <br/> GIT | SVN<br/>WECHAT APP | Mini Program <br/>"
         },
         {
           "title": "DESIGN",
-          "description": "SKETCH | INVISION | PHOTOSHOP"
+          "description": "SKETCH | PHOTOSHOP"
         },
         {
           "title": "LANGUAGE",
@@ -66,7 +69,7 @@
       "contents": [
         {
           "title": "<a href='https://wiredcraft.com/'>Wiredcraft</a>",
-          "description": "August 2016 – Present , Shanghai, China <br/><br/> Front-End Strategy & Developer"
+          "description": "August 2016 – Present , Shanghai, China <br/><br/> Front-End Strategy & Team Leader & Developer"
         },
         {
           "title": "<a href='http://www.apploi.com/'>Apploi</a>",
@@ -74,7 +77,7 @@
         },
         {
           "title": "<a href='http://www.breezecapsule.com/'>Breeze Capsule</a>",
-          "description": "April 2012 – July 2016 , Wuhan, Hubei, China <br/><br/> Full-Stack Developer"
+          "description": "April 2012 – July 2016 , Wuhan, Hubei, China <br/><br/> Full Stack Developer"
         }
       ]
     },
