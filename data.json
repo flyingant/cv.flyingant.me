@@ -10,8 +10,7 @@
   "summary": [
     "My name is <b>Liu Cheng</b> but usually called by '<b>MaYi</b>'.",
     "Had 6+ years experiences of developing mid to large scale websites, web applications and desktop&mobile applications with latest technologies like React, React Native, Electron, Grails etc.",
-    "Currently working as the freelancer and the front end strategy &amp; team leader from the <a href='https://wiredcraft.com' rel='nofollow'>Wiredcraft</a> which is the digital agency located in Shanghai. I used to be the full stack developer and focusing on front end development and management right now.",
-    "In the past years I had worked with different teams from <em>Starbucks China</em>, <em>Burberry</em>, <em>Nike</em>, <em>Hilton</em>, <em>Walmart</em> etc. to  provide the technical support and develop new products by implementing the new-designed websites, wechat mini program and web apps. Now already got <a href='https://www.starbucks.com.cn' rel='nofollow'>Starbucks China Website</a>, Burberry Mini Program, Nike Mini Program etc. online.",
+    "Currently working as the freelancer and the front end strategy &amp; team leader from the <a href='https://wiredcraft.com' rel='nofollow'>Wiredcraft</a> which is the digital agency located in Shanghai. AndI used to be the full stack developer but focusing on front end development and management right now.",
     "If you wish to find out more about me, you could email me at <a href='mailto:liucheng@flyingant.me'>liucheng@flyingant.me</a> or visit the following links (<a href='https://www.linkedin.com/in/flyingant/' rel='nofollow'>LinkedIn</a>, <a href='https://github.com/flyingant'>GitHub</a>)."
   ],
   "cards": [
@@ -20,20 +19,24 @@
       "style": "experiences",
       "contents": [
         {
+          "title": "Hilton Booking&Shopping Mini Program | 2019",
+          "description": "<b>Front end Team leader & Developer</b>"
+        },
+        {
           "title": "Burberry Mini Program | 2018 - 2019",
-          "description": "<b>Front end Team leader & Front end Developer</b>"
+          "description": "<b>Front end Team leader & Developer</b>"
         },
         {
           "title": "<a href='https://www.starbucks.com.cn' target='_blank'>Starbucks China</a> | 2016 - Present",
-          "description": "<b>Front end Team leader & Front end Developer</b>"
+          "description": "<b>Front end Team leader & Developer</b>"
         },
         {
           "title": "<a href='#' target='_blank'>Etam Digital Table</a> | 2016 - 2017",
-          "description": "<b>Front end Team leader & Front end Developer</b> <br/><br/> - Desktop Application"
+          "description": "<b>Front end Team leader & Developer</b> <br/><br/> - Desktop Application"
         },
         {
           "title": "<a href='http://imadmen.net' target='_blank'>imadmen.net</a> | 2015 - 2016",
-          "description": "<b> Project Manager & Front end Developer </b>"
+          "description": "<b> Project Manager & Developer </b>"
         },
         {
           "title": "<a href='http://www.apploi.com' target='_blank'>Apploi</a> | 2013 - 2014",
@@ -51,11 +54,7 @@
       "contents": [
         {
           "title": "DEVELOPMENT",
-          "description": "JAVASCRIPT | REACT | REACT NATIVE | NodeJS | BACKBONE | ELECTRON <br/> HTML5 | CSS3 | LESS | SCSS | BOOTSTRAP<br/>JAVA | GROOVY | GRAILS <br/>  iOS | ANDROID | OBJECTIVE-C <br/>MYSQL <br/> GIT | SVN<br/>WECHAT APP | Mini Program <br/>"
-        },
-        {
-          "title": "DESIGN",
-          "description": "SKETCH | PHOTOSHOP"
+          "description": "JAVASCRIPT | REACT | REACT NATIVE | NodeJS | BACKBONE | ELECTRON <br/> HTML5 | CSS3 | SCSS | BOOTSTRAP <br/> WECHAT APP | Mini Program <br/> JAVA | GROOVY | GRAILS <br/>  iOS | OBJECTIVE-C <br/>MYSQL <br/> GIT <br/>"
         },
         {
           "title": "LANGUAGE",
