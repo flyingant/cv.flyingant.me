@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const path = require('path');
 const validate = require('webpack-validator');
+const CopyPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = validate({
@@ -11,7 +12,7 @@ module.exports = validate({
     },
 
     output: {
-        path: path.join(__dirname, '../../'),
+        path: path.join(__dirname, '../dist/'),
         filename: "[name].bundle.js",
         publicPath: '/'
     },
@@ -48,7 +49,11 @@ module.exports = validate({
             inject: false,
             title: 'Liu Cheng | CV | Front End Web Developer',
             template: './index.template.html'
-        })
+        }),
+        new CopyPlugin([
+            { from: './images', to: '../dist/images/' },
+            { from: './js', to: '../dist/js/' },
+        ]),
     ]
 
 });

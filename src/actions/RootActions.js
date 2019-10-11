@@ -1,7 +1,4 @@
-import React from 'react';
 import {createActions} from '../utils/ActionBuilder'
-import CommonActions from '../common/actions/CommonActions'
-const { pushPath } = require('redux-simple-router');
 import NetworkUtility from '../utils/NetworkUtility'
 
 module.exports = createActions({

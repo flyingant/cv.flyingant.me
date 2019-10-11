@@ -50,7 +50,7 @@ export function createActions(actions) {
         Actions: {},
         Keys: {}
     };
-    _(actions).keys().each((key) => {
+    Object.keys(actions).forEach((key) => {
         holder.Keys[key] = key;
         holder.Actions[key] = createHandler(holder, key, actions[key]);
         // create 'Completed' auto-action if not defined.
@@ -65,7 +65,7 @@ export function createActions(actions) {
             holder.Keys[failedActionName] = failedActionName;
             holder.Actions[failedActionName] = createHandler(holder, failedActionName, PureAction);
         }
-    }).value();
+    });
     return holder;
 }
 

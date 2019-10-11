@@ -19,7 +19,7 @@ const reducer = combineReducers({
 });
 
 const logger = createLogger({
-    transformer(state) {
+    stateTransformer(state) {
         //log the all state to JSON
         return {
             app: state.app.toJS()

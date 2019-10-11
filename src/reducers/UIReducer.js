@@ -1,5 +1,4 @@
 import Immutable from 'immutable';
-import { UPDATE_PATH } from 'redux-simple-router'
 //actions
 import CommonActions from '../common/actions/CommonActions'
 
