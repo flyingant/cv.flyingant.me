@@ -12,7 +12,7 @@ module.exports = validate({
     },
 
     output: {
-        path: path.join(__dirname, '../dist/'),
+        path: path.join(__dirname, '../doc/'),
         filename: "[name].bundle.js",
         publicPath: '/'
     },
@@ -51,8 +51,8 @@ module.exports = validate({
             template: './index.template.html'
         }),
         new CopyPlugin([
-            { from: './images', to: '../dist/images/' },
-            { from: './js', to: '../dist/js/' },
+            { from: './images', to: '../doc/images/' },
+            { from: './js', to: '../doc/js/' },
         ]),
     ]
 
