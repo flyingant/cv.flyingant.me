@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "MaYi's CV",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "classnames": "^2.2.5",
     "es6-promise": "^3.2.1",
     "graceful-fs": "^4.1.11",
