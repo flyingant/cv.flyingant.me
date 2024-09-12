@@ -1,0 +1,107 @@
+{ 
+  "greetings": "Hello there! I'm Liu Cheng, also known as MaYi. I'm a Lead Frontend Engineer at Wiredcraft, You can reach out to me at given contact details or simply drop me a message here (liucheng@flyingant.me).",
+  "name": "Liu Cheng",
+  "title": "Lead Frontend Engineer",
+  "company": "Wiredcraft",
+  "email": "liucheng@flyingant.me",
+  "github": "https://github.com/flyingant",
+  "wechat": "LittleFlyingAnt",
+  "linkedin": "https://www.linkedin.com/in/flyingant",
+  "phone": "+86 15072468449",
+  "address": "Shanghai & Wuhan",
+  "website": "",
+  "summary": [
+    "I am Liu Cheng, also known as MaYi, serving as the Lead Frontend Engineer at Wiredcraft. ",
+    "With over 10 years of experience, I specialize in developing and overseeing large-scale websites, mobile app as well as Wechat Mini Program using cutting-edge technologies such as React, Next.js, and Electron.",
+    "Additionally, I have significant leadership experience in guiding tech teams to achieve business objectives using JIRA and Agile methods effectively."
+  ],
+  "education": [
+    {
+      "institution": "Wuhan University",
+      "degree": "Bachelor‘s degree, Computer Science",
+      "startDate": "2007",
+      "endDate": "2011"
+    }
+  ],
+  "employment_history": [
+    {
+      "company": "Wiredcraft",
+      "title": "Lead Front End Engineer",
+      "startDate": "Aug 2016",
+      "endDate": "Present",
+      "website": "https:://wiredcraft.com",
+      "address":"Shanghai City, China",
+      "description": ""
+    },
+    {
+      "company": "Apploi",
+      "title": "Web & iOS Developer",
+      "startDate": "Mar 2013",
+      "endDate": "Jun 2014",
+      "website": "#",
+      "address": "Manhattan, New York City",
+      "description": ""
+    },
+    {
+      "company": "武汉英伦丰创软件有限公司",
+      "title": "Full Stack Developer",
+      "startDate": "Apr 2012",
+      "endDate": "Jul 2016",
+      "website": "#",
+      "address": "Wuhan, Hubei, China",
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Code & Script",
+      "keywords": ["React, Next.js, HTML 5, Node.js, React Native, Electron", "Wechat Mini Program, Wechat OA"]
+    },
+    {
+      "name": "Project Management",
+      "keywords": ["JIRA", "Agile"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Chinese (Native)", "English (Working Proficiency)"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hilton China Apps",
+      "startDate": "2019",
+      "endDate": "Present",
+      "link": "https://www.hilton.com.cn",
+      "description": "In the Hilton China Apps Project, I served as a Frontend Team Tech Leader and WeChat Mini Program expert. I led the development and maintenance of iOS Apps, Android Apps, and WeChat Mini Programs, collaborating with the Hilton team to ensure timely feature delivery. Additionally, I played a key role in team expansion and process optimization. Through these efforts, Hilton China Apps saw its revenue double to an impressive $100M within 2 years, while also scaling the team from 10 to 40 members."
+    },
+    {
+      "name": "Wechat Mini Program App by Wiredcraft",
+      "startDate": "2018",
+      "endDate": "2020",
+      "link": "https://www.wiredcraft.com",
+      "description": "At Wiredcraft, I played the roles of Frontend Team Leader and Developer, partnering with the clients like Burberry, Tiffany, Zara, Dior, and Nike. Together, we developed websites and WeChat ecommerce mini programs, collaborating closely with their tech teams to fulfill business requirements and enhanced Chinese local experiences with their products."
+    },
+    {
+      "name": "Etam - Desktop App (Digital Table)",
+      "startDate": "2018",
+      "endDate": "2019",
+      "link": "https://www.etam.com",
+      "description": "In the Etam Project, I contributed as a Frontend Developer in creating an interactive digital table using technologies such as React and Electron. This innovation allowed customers to interact with a screen to select their ideal outfit. The outcome was significant, as the Etam shop gained substantial exposure on its opening day."
+    },
+    {
+      "name": "Starbucks China Website",
+      "startDate": "2016",
+      "endDate": "2018",
+      "link": "https://www.starbucks.com.cn",
+      "description": "In the Starbucks Project, worked as a key role as the full stack developer in rapidly building and revamping the Starbucks China website. This initiative enabled Starbucks China to align with the latest trends in UI design and fashion."
+    },
+    {
+      "name": "Apploi",
+      "startDate": "2013",
+      "endDate": "2014",
+      "link": "https://www.apploi.com",
+      "description": "During my time in the Apploi project in New York City, I served as a Web & App Developer in developing the website and iOS&Android App to assist individuals in their online job search. This project not only facilitated the startup in launching their initial product but also helped Apploi to secure a $5M investment."
+    }
+  ]
+
+}
