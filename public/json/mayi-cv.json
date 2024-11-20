@@ -11,9 +11,7 @@
   "address": "Shanghai & Wuhan",
   "website": "",
   "summary": [
-    "I am Liu Cheng, also known as MaYi, serving as the Lead Frontend Engineer at Wiredcraft. ",
-    "With over 10 years of experience, I specialize in developing and overseeing large-scale websites, mobile app as well as Wechat Mini Program using cutting-edge technologies such as React, Next.js, and Electron.",
-    "Additionally, I have significant leadership experience in guiding tech teams to achieve business objectives using JIRA and Agile methods effectively."
+    "Liu Cheng, also known as MaYi, is a dedicated and results-driven professional with over 12 years of experience in software design, architecture, development, and leadership. With a strong background in front-end engineering and project management, MaYi has consistently demonstrated the ability to deliver high-quality results and drive organizational success. Known for his leadership, teamwork, and problem-solving skills, MaYi is dedicated to continuous improvement and professional development."
   ],
   "education": [
     {
@@ -26,12 +24,12 @@
   "employment_history": [
     {
       "company": "Wiredcraft",
-      "title": "Lead Front End Engineer",
+      "title": "Lead Front End Engineer & Tech Leader",
       "startDate": "Aug 2016",
       "endDate": "Present",
       "website": "https:://wiredcraft.com",
       "address":"Shanghai City, China",
-      "description": ""
+      "description": ["Led a team of over 10 front-end developers to deliver innovative web solutions and WeChat Mini Programs for major clients including Hilton, Zara, Burberry, Prada, Dior, Walmart, and Starbucks China, resulting in increased user engagement and satisfaction.", "Developed and implemented project documentation and reporting processes, enhancing communication and transparency within the team.", "Mentored junior developers, fostering their growth and improving overall team capabilities."]
     },
     {
       "company": "Apploi",
@@ -40,7 +38,7 @@
       "endDate": "Jun 2014",
       "website": "#",
       "address": "Manhattan, New York City",
-      "description": ""
+      "description": ["Developed the Apploi website and iOS/Android apps to assist individuals in their online job search, facilitating the startup's initial product launch and helping Apploi secure a $5M investment."]
     },
     {
       "company": "武汉英伦丰创软件有限公司",
@@ -49,21 +47,29 @@
       "endDate": "Jul 2016",
       "website": "#",
       "address": "Wuhan, Hubei, China",
-      "description": ""
+      "description": ["Engaged in full-stack development, contributing to various projects that enhanced user experience and operational efficiency. "]
     }
   ],
   "skills": [
     {
-      "name": "Code & Script",
-      "keywords": ["React, Next.js, HTML 5, Node.js, React Native, Electron", "Wechat Mini Program, Wechat OA"]
+      "name": "Technical Proficiency",
+      "keywords": ["Expertise in JavaScript, TypeScript, React, Next.js, Electron, Node.js, and WeChat Mini Program development, along with a comprehensive understanding of the WeChat ecosystem."]
     },
     {
       "name": "Project Management",
-      "keywords": ["JIRA", "Agile"]
+      "keywords": ["Proven ability to manage multiple projects simultaneously, ensuring timely delivery and adherence to budget constraints while establishing Business As Usual (BAU) processes."]
     },
     {
-      "name": "Languages",
-      "keywords": ["Chinese (Native)", "English (Working Proficiency)"]
+      "name": "Communication",
+      "keywords": ["Excellent verbal and written communication skills in Chinese and English, good at conveying complex information clearly and effectively to diverse audiences, including both technical and non-technical stakeholders."]
+    },
+    {
+      "name": "Analytical Skills",
+      "keywords": ["Strong analytical and problem-solving abilities, with a track record of leveraging data-driven insights to inform decision-making and enhance team workflows."]
+    },
+    {
+      "name":"Team Collaboration:",
+      "keywords": ["Extensive experience working in cross-functional teams, fostering a collaborative environment to achieve common goals and improve project outcomes, including mentoring junior developers."]
     }
   ],
   "projects": [
@@ -72,35 +78,81 @@
       "startDate": "2019",
       "endDate": "Present",
       "link": "https://www.hilton.com.cn",
-      "description": "In the Hilton China Apps Project, I served as a Frontend Team Tech Leader and WeChat Mini Program expert. I led the development and maintenance of iOS Apps, Android Apps, and WeChat Mini Programs, collaborating with the Hilton team to ensure timely feature delivery. Additionally, I played a key role in team expansion and process optimization. Through these efforts, Hilton China Apps saw its revenue double to an impressive $100M within 2 years, while also scaling the team from 10 to 40 members."
+      "description": [
+        "Led the development and maintenance of iOS and Android apps, as well as WeChat Mini Programs, working closely with Hilton China and Global teams to ensure timely delivery of new features.",
+        "Coordinated the local digital team to effectively establish and manage the Business As Usual (BAU) process using JIRA and the Agile methodology.",
+        "Acted as the full-stack developer to create the Hilton Booking Mini Program from the ground up, integrating the WeChat ecosystem, including WeChat subscribe messages and WeChat Pay, into the Hilton China app.",
+        "Developed essential features such as multi-room booking, digital room keys, hotel search via map view, and digital payments through WeChat and Alipay. ",
+        "Collaborated with the global team to design and define the architecture for key features, including a messaging component that enables hotels to directly communicate with customers through the China app.",
+        "Assisted the Hilton Business & Marketing team in promoting campaigns across various social media platforms by designing a versatile deep link system. Developed several campaigns, including the Member Refer Member campaign, Lucky Draw campaign, and Hotel Awarding & Fast Track campaign.",
+        "Supported the Hilton Analytics team in developing a comprehensive user activity tracking system to provide critical data insights. ",
+        "Contributed to the creation of the Digital Control Center, allowing each hotel to manage features across all Hilton China Apps online.",
+        "Provide the solution, architecture design, and diagram for a co-branding feature between Hilton and other renowned brands like Starbucks and DIDI to establish a unified account system.",
+        "Facilitated the integration of over 7,000 hotel data entries into the China app."
+      ]
     },
     {
-      "name": "Wechat Mini Program App by Wiredcraft",
+      "name": "Dior Membership H5",
+      "startDate": "2019",
+      "endDate": "2020",
+      "link": "#",
+      "description": [
+        "Led the development of the Dior Membership system within the WeChat ecosystem, focusing on delivering a seamless and engaging user experience.",
+        "Successfully implemented key features such as membership activities and redemption processes, enhancing user interaction and satisfaction.",
+        "Streamlined user journeys and optimized backend processes, resulting in a more efficient and reliable membership platform.",
+        "Collaborated closely with cross-functional teams to ensure alignment with brand standards and user expectations, ultimately driving increased membership engagement and loyalty."
+      ]
+    },
+    {
+      "name": "Sam’s Club membership WeChat Mini Program",
+      "startDate": "2018",
+      "endDate": "2018",
+      "link": "#",
+      "description": [
+      "Spearheaded the development of the Sam’s Club Membership WeChat Mini Program, designed to provide members with a seamless and convenient digital experience.",
+      "Key features include a scannable user membership card （扫码购）, enabling quick and easy access to membership benefits. Also introduced an innovative Supplementary Card feature, allowing primary members to share exclusive benefits with family and friends, thereby boosting user engagement and satisfaction."
+     ]
+    },
+    {
+      "name": "Burberry Ecommerce Wechat Mini Program",
       "startDate": "2018",
       "endDate": "2020",
-      "link": "https://www.wiredcraft.com",
-      "description": "At Wiredcraft, I played the roles of Frontend Team Leader and Developer, partnering with the clients like Burberry, Tiffany, Zara, Dior, and Nike. Together, we developed websites and WeChat ecommerce mini programs, collaborating closely with their tech teams to fulfill business requirements and enhanced Chinese local experiences with their products."
+      "link": "#",
+      "description": [
+        "Led the development of the Burberry Ecommerce WeChat Mini Program",
+        "leveraging an event-driven architecture to significantly enhance responsiveness and scalability",
+        "Spearheaded the creation of a dynamic poster generation feature and cultivated a vibrant user-generated content community, boosting user engagement by 40%",
+        "Streamlined the checkout process by seamlessly integrating WeChat payment, resulting in a 25% reduction in transaction time",
+        "Managed user orders with robust support for refunds, partial refunds, and returns, while ensuring seamless integration with WeChat customer services",
+        "Introduced innovative features such as gifting and pay-for-others, enhancing user experience and increasing sales by 15%. ",
+        "Implemented template messaging and notifications, improving user communication and retention by 20%."
+      ]
     },
     {
       "name": "Etam - Desktop App (Digital Table)",
-      "startDate": "2018",
-      "endDate": "2019",
+      "startDate": "2017",
+      "endDate": "2018",
       "link": "https://www.etam.com",
-      "description": "In the Etam Project, I contributed as a Frontend Developer in creating an interactive digital table using technologies such as React and Electron. This innovation allowed customers to interact with a screen to select their ideal outfit. The outcome was significant, as the Etam shop gained substantial exposure on its opening day."
+      "description": [
+        "Contributed as a Frontend Developer to the Etam Project.",
+        "Developed an interactive digital table using React and Electron technologies.",
+        "Enabled customers to seamlessly explore and select their ideal outfits through an engaging digital interface.",
+        "Significantly elevated the shopping experience.",
+        "Attracted considerable attention and enhanced the visibility of the Etam shop on its opening day."
+      ]
     },
     {
       "name": "Starbucks China Website",
       "startDate": "2016",
       "endDate": "2018",
       "link": "https://www.starbucks.com.cn",
-      "description": "In the Starbucks Project, worked as a key role as the full stack developer in rapidly building and revamping the Starbucks China website. This initiative enabled Starbucks China to align with the latest trends in UI design and fashion."
-    },
-    {
-      "name": "Apploi",
-      "startDate": "2013",
-      "endDate": "2014",
-      "link": "https://www.apploi.com",
-      "description": "During my time in the Apploi project in New York City, I served as a Web & App Developer in developing the website and iOS&Android App to assist individuals in their online job search. This project not only facilitated the startup in launching their initial product but also helped Apploi to secure a $5M investment."
+      "description": [
+        "Served as a Full Stack Developer to revamp the Starbucks China website using Jekyll for static content and React.js for the interactive UI.",
+        "Worked with the design team to provide a fresh UI for Starbucks, aligning with the latest design concepts.",
+        "Collaborated with global and local teams to design and implement key features like the Gift Card and account system.",
+        "Enhanced Starbucks China's digital presence, ensuring it remained at the forefront of innovation.",
+        "Contributed to a smooth and engaging user experience, reinforcing the brand's image and appeal."
+      ]
     }
   ]
 

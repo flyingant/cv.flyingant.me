@@ -53,7 +53,7 @@ interface Data {
     endDate: string;
     website: string;
     address: string;
-    description: string;
+    description: Array<string>;
   }>;
   education: Array<{
     institution: string;
@@ -63,7 +63,7 @@ interface Data {
   }>;
   projects: Array<{
     name: string;
-    description: string;
+    description: Array<string>;
     link: string;
     startDate: string;
     endDate: string;
@@ -262,7 +262,9 @@ export default function Page() {
                     <p className="dates">
                       {item.startDate} - {item.endDate}, {item.address}
                     </p>
-                    <p>{item.description}</p>
+                    <ul className="description">
+                      {item.description.map((desc, idx) => (<li key={idx}>{desc}</li>))}
+                    </ul>
                   </div>
                 ) as JSX.Element
             )}
@@ -288,7 +290,9 @@ export default function Page() {
                     <p className="dates">
                       {item.startDate} ~ {item.endDate}
                     </p>
-                    <p>{item.description}</p>
+                    <ul className="description">
+                      {item.description.map((desc, idx) => (<li key={idx}>{desc}</li>))}
+                    </ul>
                   </div>
                 ) as JSX.Element
             )}
